@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Overview</name>
+   <tag></tag>
+   <elementGuidId>504add31-5c51-4b41-a456-e5f118015cf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.primary-tab.primary-tab-border.active > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-inner']/div/my-team-container/div/div/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9922d1e2-0f7c-43e0-ae3e-e02ae486cc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview</value>
+      <webElementGuid>965f662f-da4c-492f-a13e-f8e823ed1840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-inner&quot;)/div[@class=&quot;app-uiview&quot;]/my-team-container[1]/div[@class=&quot;page--banner page--banner-nav&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav nav-underline nav-underline-center&quot;]/li[@class=&quot;primary-tab primary-tab-border active&quot;]/a[1]/span[1]</value>
+      <webElementGuid>4f8e2f2d-a8fd-402d-9426-53d326aad96f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-inner']/div/my-team-container/div/div/ul/li/a/span</value>
+      <webElementGuid>e828b53c-f5d5-4469-87a5-a43526e19898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Team'])[1]/following::span[1]</value>
+      <webElementGuid>6ba4a399-a210-4e0b-8330-7d153771cdaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RA'])[2]/following::span[2]</value>
+      <webElementGuid>2e718e3b-1e1a-4cb6-b240-15f0221d6633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a22c43b-15df-4bfb-8994-15484bdcae25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrollments'])[1]/preceding::span[2]</value>
+      <webElementGuid>1a2e3457-6625-4e40-9883-9d9caec85d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Overview']/parent::*</value>
+      <webElementGuid>3ae4111d-fc30-4ace-8a61-0d727e29c115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>c032ae98-9e26-48e2-83a9-1b36555bffd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Overview' or . = 'Overview')]</value>
+      <webElementGuid>caf2aabf-8cc7-468a-a026-9726f7efb587</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My team</name>
+   <tag></tag>
+   <elementGuidId>09172581-8f5e-4600-bc62-e6b6887f798a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[3]/a[3]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7c3d2de-e2af-4131-b897-ca7dd69634b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-hcsv3x</value>
+      <webElementGuid>403da609-2f91-4df0-9a4d-93da151f3270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My team</value>
+      <webElementGuid>50643616-7f3f-4553-a568-0baa140dd0ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-17umnie&quot;]/div[@class=&quot;css-xmlxg7&quot;]/div[@class=&quot;css-xn1p3x&quot;]/a[@class=&quot;css-bc0q3d&quot;]/span[@class=&quot;css-1cjf1jx&quot;]/span[@class=&quot;css-hcsv3x&quot;]</value>
+      <webElementGuid>93ea3ac3-7ed3-4d71-ae0b-45c26cd2a0d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[3]/a[3]/span/span</value>
+      <webElementGuid>92b97e81-6da2-42bd-901a-6c14e0f27d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My learning'])[1]/following::span[2]</value>
+      <webElementGuid>c5c66c93-1b7c-4300-8bd6-6bcdb55ace51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My playlists'])[1]/following::span[4]</value>
+      <webElementGuid>ac9e1ae7-0c5c-4da9-9fe6-9a245e2fb7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My teaching'])[1]/preceding::span[1]</value>
+      <webElementGuid>debaded6-2457-481c-b198-8a2af94ec8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RA'])[2]/preceding::span[3]</value>
+      <webElementGuid>263d81bb-d03e-4f02-a715-6e31c87c5ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My team']/parent::*</value>
+      <webElementGuid>8ae571a9-e6a7-49d9-ab5e-629b60e75d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span/span</value>
+      <webElementGuid>c1d3f79a-cd50-45d4-8836-61632c968e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My team' or . = 'My team')]</value>
+      <webElementGuid>35fb03dc-71c7-468a-a709-83990848b87f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

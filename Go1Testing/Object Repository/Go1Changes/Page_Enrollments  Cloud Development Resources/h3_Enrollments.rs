@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Enrollments</name>
+   <tag></tag>
+   <elementGuidId>13d8013f-c683-49cb-88d2-274b8dc9f223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.pull-left.m-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-inner']/div/my-team-container/div[2]/div/my-team-enrolments/div/apiom-heading/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>d4348816-8476-4886-8334-ef85a7e8671a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-left m-0</value>
+      <webElementGuid>59fdbd79-2647-49a4-94f8-4a016dbfa9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enrollments</value>
+      <webElementGuid>9633e224-7375-4094-a2ba-14e84d233acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-inner&quot;)/div[@class=&quot;app-uiview&quot;]/my-team-container[1]/div[@class=&quot;container&quot;]/div[1]/my-team-enrolments[1]/div[@class=&quot;page--heading clearfix m-t-sm m-b-lg&quot;]/apiom-heading[1]/h3[@class=&quot;pull-left m-0&quot;]</value>
+      <webElementGuid>170ea0cf-b938-4a95-9e34-9cd4ac1638e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-inner']/div/my-team-container/div[2]/div/my-team-enrolments/div/apiom-heading/h3</value>
+      <webElementGuid>4195adff-9a35-4291-b152-bd251ea074bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrollments'])[1]/following::h3[1]</value>
+      <webElementGuid>71bc348e-d3f8-4432-a731-d8e502325ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::h3[1]</value>
+      <webElementGuid>9e521b11-5221-4b09-aaaa-b9c49933fb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrollment management'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2e3e42a5-525f-47e5-9d55-9f94dbe0dcf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>19d201d5-6d92-49eb-acf7-d25b51536b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Enrollments' or . = 'Enrollments')]</value>
+      <webElementGuid>914ca385-1846-4e35-b9fa-5e1d116041bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

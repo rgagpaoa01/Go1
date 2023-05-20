@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Filter_fa fa-filter</name>
+   <tag></tag>
+   <elementGuidId>a71f2556-82ca-4836-b7f6-b9ce2d150f2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-inner']/div/admin-nav/div/div[2]/div/div/admin-manage-users/report/ng-include/report-full/section/section/report-display/ng-include/report-display-table/div/header/div/div[2]/div/report-filter/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5c58bc70-74b1-4691-8d45-b374d1e986a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>$ctrl.icon</value>
+      <webElementGuid>bf01835c-09ff-476c-ab89-8eac7077d23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-filter</value>
+      <webElementGuid>58db0594-a5d1-45f0-bbc3-46d75814da75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-inner&quot;)/div[@class=&quot;app-uiview&quot;]/admin-nav[1]/div[@class=&quot;page-admin&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;admin-view&quot;]/div[1]/admin-manage-users[1]/report[1]/ng-include[1]/report-full[1]/section[@class=&quot;report-builder&quot;]/section[@class=&quot;report-content&quot;]/report-display[1]/ng-include[1]/report-display-table[1]/div[@class=&quot;report--header-container&quot;]/header[@class=&quot;report-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8 col-xs-7&quot;]/div[@class=&quot;pull-left btn-toolbar&quot;]/report-filter[@class=&quot;btn-group hidden-xs&quot;]/a[@class=&quot;btn btn-default&quot;]/i[@class=&quot;fa fa-filter&quot;]</value>
+      <webElementGuid>edf98d84-2d5f-40b6-9a7b-54241a90ed9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-inner']/div/admin-nav/div/div[2]/div/div/admin-manage-users/report/ng-include/report-full/section/section/report-display/ng-include/report-display-table/div/header/div/div[2]/div/report-filter/a/i</value>
+      <webElementGuid>94bd9ada-9ef4-4d18-9f13-59abd9221264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>0850ac6d-6d40-4b39-8bf7-a7af61407173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
