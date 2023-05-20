@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Assigned</name>
+   <tag></tag>
+   <elementGuidId>51ba205d-c1a8-4d9a-a94d-26f45e20eba1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-inner']/div/my-learning/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0710d92b-ad06-4e4f-97e6-167410614bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assigned</value>
+      <webElementGuid>6f807bd6-d202-4479-8d63-11f492808830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-inner&quot;)/div[@class=&quot;app-uiview&quot;]/my-learning[1]/div[@class=&quot;page--banner page--banner-nav&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav nav-underline nav-underline-center&quot;]/li[@class=&quot;primary-tab primary-tab-border&quot;]/a[1]/span[1]</value>
+      <webElementGuid>90499407-b09e-4ce3-8241-ab096cd00ab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-inner']/div/my-learning/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>5da7aae1-6597-4fff-869a-5e15052633a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In progress'])[1]/following::span[1]</value>
+      <webElementGuid>14be0266-0b61-4cd9-8523-087428ced6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Learning'])[1]/following::span[2]</value>
+      <webElementGuid>7a6eb553-7b7e-4e2a-958d-0373e368ae3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled'])[1]/preceding::span[1]</value>
+      <webElementGuid>2b6e79fb-f895-47a9-af63-94014abd6b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/preceding::span[2]</value>
+      <webElementGuid>703dca61-41bb-47c3-b666-2a60b410fd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assigned']/parent::*</value>
+      <webElementGuid>7f153686-7a02-4db5-89a8-eca21df1822e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>84db5dda-ad11-4891-baea-e30f8703b8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Assigned' or . = 'Assigned')]</value>
+      <webElementGuid>fc89f023-3b46-4910-8098-32ca44740d76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

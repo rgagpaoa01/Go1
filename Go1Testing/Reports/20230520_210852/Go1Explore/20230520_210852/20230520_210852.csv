@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Go1Explore,Edge Chromium 113,,,2023-05-20 21:08:59,2023-05-20 21:09:37,37.825s,PASSED
+,,,,,,,
+Test Cases/Login,Edge Chromium 113,,,2023-05-20 21:08:59,2023-05-20 21:09:31,31.606s,PASSED
+"openBrowser("""")",Edge Chromium 113,,,2023-05-20 21:09:00,2023-05-20 21:09:02,2.175s,PASSED
+maximizeWindow(),Edge Chromium 113,,,2023-05-20 21:09:02,2023-05-20 21:09:02,0.174s,PASSED
+"navigateToUrl(""https://clouddevelopmentresources.mygo1.com/login?redirect_url"")",Edge Chromium 113,,,2023-05-20 21:09:02,2023-05-20 21:09:04,1.490s,PASSED
+"click(findTestObject(""Object Repository/Go1Changes/Page_Log in/span_Email""))",Edge Chromium 113,,,2023-05-20 21:09:04,2023-05-20 21:09:07,3.742s,PASSED
+"setText(findTestObject(""Object Repository/Go1Changes/Page_Log in/input_Log in with your email_email""), ""rodel.agpaoa@emids.com"")",Edge Chromium 113,,,2023-05-20 21:09:07,2023-05-20 21:09:10,2.320s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Go1Changes/Page_Log in/input_Email_password""), ""jxqMmeXTJsPBYkL9vIO9Rw=="")",Edge Chromium 113,,,2023-05-20 21:09:10,2023-05-20 21:09:10,0.603s,PASSED
+"click(findTestObject(""Object Repository/Go1Changes/Page_Log in/button_Log in""))",Edge Chromium 113,,,2023-05-20 21:09:10,2023-05-20 21:09:11,0.809s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Dashboard  Cloud Development Resources/img_Groups_css-1ve3oum""), 0)",Edge Chromium 113,,,2023-05-20 21:09:11,2023-05-20 21:09:31,19.522s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Dashboard  Cloud Development Resources/img_Groups_css-1ve3oum""), STOP_ON_FAILURE)",Edge Chromium 113,,,2023-05-20 21:09:31,2023-05-20 21:09:31,0.417s,PASSED
+,,,,,,,
+Test Cases/Explore,Edge Chromium 113,,,2023-05-20 21:09:31,2023-05-20 21:09:37,5.957s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Dashboard  Cloud Development Resources/span_Explore""), 0)",Edge Chromium 113,,,2023-05-20 21:09:31,2023-05-20 21:09:32,0.411s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Dashboard  Cloud Development Resources/span_Explore""))",Edge Chromium 113,,,2023-05-20 21:09:32,2023-05-20 21:09:32,0.373s,PASSED
+"click(findTestObject(""Object Repository/Go1Changes/Page_Dashboard  Cloud Development Resources/span_Explore""))",Edge Chromium 113,,,2023-05-20 21:09:32,2023-05-20 21:09:35,2.546s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Explore/span_Personal Development""), 0)",Edge Chromium 113,,,2023-05-20 21:09:35,2023-05-20 21:09:37,1.975s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Go1Changes/Page_Explore/span_Personal Development""))",Edge Chromium 113,,,2023-05-20 21:09:37,2023-05-20 21:09:37,0.421s,PASSED

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Explore</name>
+   <tag></tag>
+   <elementGuidId>c6d6f245-1f2f-4252-8ea3-9546fc78bdbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-1rko72w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div/react-top-menu/div[2]/div/div[2]/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>937ff165-5a53-4576-b01d-62755cc35f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1rko72w</value>
+      <webElementGuid>8213d70a-1224-41e8-83c2-69b31b2ae156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Explore</value>
+      <webElementGuid>8d1f8d2a-512b-4ab4-9f17-651b3ab6d4d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;box has-top-nav&quot;]/div[@class=&quot;ap-navbar-container ap-navbar-topnav&quot;]/div[1]/react-top-menu[1]/div[@class=&quot;css-1hay3xq&quot;]/div[@class=&quot;css-6mjyip&quot;]/div[@class=&quot;css-qu520n&quot;]/a[@class=&quot;css-1otnhq1&quot;]/span[@class=&quot;css-xrduwu&quot;]/span[@class=&quot;css-1rko72w&quot;]</value>
+      <webElementGuid>e997a480-5379-4b57-a50d-c834f0394c65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/react-top-menu/div[2]/div/div[2]/a/span/span</value>
+      <webElementGuid>c4e4d6bd-8729-4466-add7-997974ec076f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[2]</value>
+      <webElementGuid>3fecbe43-6754-42f3-ae6c-c5caab67d875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups'])[1]/following::span[5]</value>
+      <webElementGuid>213b4b76-fd61-4bdf-b35e-cd1ec4ae5a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups'])[2]/preceding::span[1]</value>
+      <webElementGuid>10f79b85-d5af-413c-9726-7e9dd07f7838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My playlists'])[1]/preceding::span[3]</value>
+      <webElementGuid>b6868b2b-8ba5-4862-9304-95a8f5c831af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a/span/span</value>
+      <webElementGuid>b734958f-f2fc-4c4f-8231-ea478189a2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Explore' or . = 'Explore')]</value>
+      <webElementGuid>403af57b-d5ae-433b-af24-3bcbf8880bab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

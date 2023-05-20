@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_R_css-1cqkmyx</name>
+   <tag></tag>
+   <elementGuidId>accc9fb7-4e7e-4423-9258-e4b9c32c04ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.css-1cqkmyx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>134ef443-2ea3-4fff-bd17-56592ce5c8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 2004 186</value>
+      <webElementGuid>e39c0b45-927d-4fa7-a547-98165e7b74e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>2a662895-d6b8-464a-b1fd-efd07e4881e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>ded25dfc-c1a7-4d65-9a68-58b6d1d87a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1cqkmyx</value>
+      <webElementGuid>56e3d889-3f03-4ca2-aa34-00501345b077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1yahoi5&quot;]/div[@class=&quot;css-1tppgm6&quot;]/svg[@class=&quot;css-1cqkmyx&quot;]</value>
+      <webElementGuid>71fde9df-8ae2-41ca-a6b0-757e77ce7ac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9045eeba-e0f5-41e0-b68f-785941cb9354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My teaching'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>b2e2d961-0cef-4c69-9880-a0fa3b17eec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Development'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a4e96037-2e2e-41ac-bc2f-627209a9ec16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular topics'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>9dfbb498-27d2-495d-9d11-2fc43209fba8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

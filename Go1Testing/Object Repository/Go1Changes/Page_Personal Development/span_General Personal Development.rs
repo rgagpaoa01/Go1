@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_General Personal Development</name>
+   <tag></tag>
+   <elementGuidId>a163db9a-aa42-4873-8a89-7b00377ba8cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-dcd3y</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div[2]/div[2]/div/a/div/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72f00eae-3d60-4c26-9089-60f79a1a9f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-dcd3y</value>
+      <webElementGuid>bdbda284-5d7f-465c-b735-8b955aa01622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Personal Development</value>
+      <webElementGuid>159ed89b-102c-42bd-8829-977c2e48862c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1yahoi5&quot;]/div[@class=&quot;css-52pv4t&quot;]/div[@class=&quot;css-2m5ue8&quot;]/div[@class=&quot;css-1qftkdc&quot;]/div[@class=&quot;css-mp7xkt&quot;]/a[@class=&quot;css-1yahoi5&quot;]/div[@class=&quot;css-p2q30o&quot;]/span[@class=&quot;css-1vlpotx&quot;]/div[@class=&quot;css-1cwfiz9&quot;]/span[@class=&quot;css-dcd3y&quot;]</value>
+      <webElementGuid>6ee5a054-dad8-4cad-8fca-332e1dff014a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div[2]/div[2]/div/a/div/span/div/span</value>
+      <webElementGuid>7685cfdd-a191-488e-bbbe-e05ab6eb134f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[1]/following::span[2]</value>
+      <webElementGuid>a016b5e8-43af-41dc-834b-672c8e41f6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular topics'])[1]/following::span[3]</value>
+      <webElementGuid>234151f3-02d9-40b6-b407-dcd1492eafe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health and Well-being'])[1]/preceding::span[1]</value>
+      <webElementGuid>ed14dca2-d9eb-43f7-8fce-9013f54467f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language and Literature'])[1]/preceding::span[3]</value>
+      <webElementGuid>9ffc1365-2e2f-4587-8b0c-ea11fa7dcc88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Personal Development']/parent::*</value>
+      <webElementGuid>4d8283df-adfd-4a6c-a95d-bd869d9dd035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>3b395483-e160-4e47-88ed-13e028a3c51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'General Personal Development' or . = 'General Personal Development')]</value>
+      <webElementGuid>1d477391-5b7e-42b5-9444-ba0114ef4450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

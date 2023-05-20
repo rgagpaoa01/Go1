@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_My playlists</name>
+   <tag></tag>
+   <elementGuidId>c547dbf5-682d-403f-afc1-46f8e533eb88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.css-1xfkbll</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[3]/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>1c2eaff0-36cf-4461-aeb0-de3a8dba437c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1xfkbll</value>
+      <webElementGuid>32c1aafe-272e-4d81-8810-2740deb01e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My playlists</value>
+      <webElementGuid>c3c134d1-7ff5-43e1-a3f8-fb55fd438ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1yribdg&quot;]/div[@class=&quot;css-x7b9u3&quot;]/div[@class=&quot;css-1s06r9f&quot;]/div[@class=&quot;css-oa8mp3&quot;]/h2[@class=&quot;css-1xfkbll&quot;]</value>
+      <webElementGuid>d5e6bb36-4377-4d9e-8a33-24d99aaa20f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[3]/div/div/h2</value>
+      <webElementGuid>c14687b4-8cd0-4386-8128-fc5456cfadb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RA'])[2]/following::h2[1]</value>
+      <webElementGuid>1c095f29-1318-414c-b6fb-667cf611e086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My teaching'])[1]/following::h2[1]</value>
+      <webElementGuid>0543bca7-2afe-4837-99f0-b338708a24b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c5115833-8cad-4332-8719-4d24d9d1b417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export all'])[1]/preceding::h2[1]</value>
+      <webElementGuid>54a7fdff-d73a-457e-948a-10aee0d484f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>96e62af0-f86b-423e-983b-c5513829dc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'My playlists' or . = 'My playlists')]</value>
+      <webElementGuid>5e5718c4-1e15-4690-a7e6-fd6e83501627</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
